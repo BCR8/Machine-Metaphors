@@ -10,3 +10,5 @@ Welcome to "Machine Metaphors", a machine learning project designed to churn out
   * *If we all stones them with femenists, soft*  
 
 The link below will take you straight to a Google Colab notebook of the project. This is an in browser python sandbox where you can play around with settings, or even use your own dataset to do something similar!
+
+[Open in Colab](https://colab.research.google.com/drive/1acELGtK-TsiNibr4PnnDvIg2yjUEAt1R)
